@@ -1,3 +1,132 @@
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/JXG72O2TZZZ5GVUMRFHCQDLSBYPRIWXQ/ZP6MERMWLACGBGZHTVL3PGEM4LJZTZ57/O2INHB7RBA62NQZWIAP3RS5WRI4PR4T5.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/JXG72O2TZZZ5GVUMRFHCQDLSBYPRIWXQ/ZP6MERMWLACGBGZHTVL3PGEM4LJZTZ57/O2INHB7RBA62NQZWIAP3RS5WRI4PR4T5.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/JXG72O2TZZZ5GVUMRFHCQDLSBYPRIWXQ/ZP6MERMWLACGBGZHTVL3PGEM4LJZTZ57/O2INHB7RBA62NQZWIAP3RS5WRI4PR4T5.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/EW5HJEX6O4L64XUWQA2XU7Q6BZ3B4JA4/ZWUP4SQYHHMMSS5LFHFFBX6DXL7C3DTU/H5EOHLIZH5K7IZK6SGYJI75L4KV6FUO7.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/EW5HJEX6O4L64XUWQA2XU7Q6BZ3B4JA4/ZWUP4SQYHHMMSS5LFHFFBX6DXL7C3DTU/H5EOHLIZH5K7IZK6SGYJI75L4KV6FUO7.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/EW5HJEX6O4L64XUWQA2XU7Q6BZ3B4JA4/ZWUP4SQYHHMMSS5LFHFFBX6DXL7C3DTU/H5EOHLIZH5K7IZK6SGYJI75L4KV6FUO7.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5/ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5/ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5/ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/ZME55SZ3XN6FJ6WZ26BVFLFSAZ5I2VWW/YETVURK7HXO34ARWAMVG6MSPWALMBOUD/SMQAIKPHV4D6DU77XSDVYN543XEEYX6R.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/ZME55SZ3XN6FJ6WZ26BVFLFSAZ5I2VWW/YETVURK7HXO34ARWAMVG6MSPWALMBOUD/SMQAIKPHV4D6DU77XSDVYN543XEEYX6R.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/ZME55SZ3XN6FJ6WZ26BVFLFSAZ5I2VWW/YETVURK7HXO34ARWAMVG6MSPWALMBOUD/SMQAIKPHV4D6DU77XSDVYN543XEEYX6R.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Switzer";
+  src: url("//cdn.fontshare.com/wf/A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN/ERWIWIB434FMFHQFSSBD233EP3C62HOI/TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.woff2")
+      format("woff2"),
+    url("//cdn.fontshare.com/wf/A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN/ERWIWIB434FMFHQFSSBD233EP3C62HOI/TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.woff")
+      format("woff"),
+    url("//cdn.fontshare.com/wf/A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN/ERWIWIB434FMFHQFSSBD233EP3C62HOI/TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Switzer";
+}
+
+.ssoform {
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0px 4px 44px 0px rgba(0, 0, 0, 0.16);
+}
+
+.mantine-PinInput-input {
+  height: 64px !important;
+  width: 60px !important;
+}
+
+.mantine-PasswordInput-innerInput:focus {
+  outline: none !important;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,6 +137,225 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+.mantine-InputWrapper-label {
+  font-size: 14px !important;
+  color: #54565b !important;
+}
+
+.sso::-webkit-scrollbar {
+  display: none !important;
+}
+
+.inputdiv,
+.mantine-InputWrapper-input {
+  border: 0.8px solid #dadadd !important;
+  border-radius: 6px !important;
+}
+
+.signinbtn {
+  border: 1px solid #7f56d9;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+
+.create-param .mantine-Modal-content {
+  border-radius: 16px !important;
+  /* padding-inline: 32px !important; */
+}
+
+.parameter-modal .mantine-Paper-root {
+  padding-inline: 32px !important;
+}
+
+.commodity-modal .mantine-Modal-content {
+  padding-inline: 32px !important;
+}
+
+.commodities-modal::-webkit-scrollbar {
+  display: none !important;
+}
+
+.scroll-bar-hidden::-webkit-scrollbar {
+  display: none !important;
+}
+
+.mantine-Modal-content::-webkit-scrollbar {
+  display: none !important;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none !important;
+}
+
+.signinbtn1 {
+  border: 1px solid #e1261c;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+
+.blurred {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(12px);
+}
+.secimage {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.sideh3 {
+  border-bottom: 1px solid #c1c2c6;
+  opacity: 0.4;
+}
+input {
+  outline: none !important;
+}
+
+.profile-details {
+  border-radius: 8px;
+  border: 0.5px solid var(--cgs-divider-color, #dadadd);
+  background: var(--cgs-border-input-field, #f9fafb);
+}
+
+.mantine-mu412o {
+  height: 2px !important;
+  background-color: #195b3e;
+}
+
+.text-select {
+  width: 50% !important;
+}
+
+.userid {
+  border-radius: 14.205px;
+  border: 0.888px solid var(--foundation-xdse-neutral-xds-eneutral-5, #dadadd);
+  background: var(--cgs-border-input-field, #f9fafb);
+}
+
+input[type="checkbox"]:checked {
+  background-color: #195b3e !important;
+}
+
+.sbar {
+  border-top: 1px solid #c1c2c6;
+}
+
+.dashboard-page {
+  border-radius: 8px 8px 0px 0px;
+  border-bottom: 2px solid var(--work-green, #38cb89);
+  background: #2c674e;
+}
+
+.dashnav {
+  border-bottom: 2px solid #195b3e;
+}
+
+.dashnav1 {
+  border-bottom: 1px solid white;
+}
+
+.dashnav:hover,
+.dashnav1:hover {
+  border-bottom: 2px solid #195b3e;
+}
+
+.mantine-TextInput-input:focus {
+  outline: none !important;
+}
+
+.mantine-Group-root {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.mantine-Group-root button:first-child,
+.mantine-Group-root button:last-child {
+  display: none !important;
+}
+
+.mantine-16d7kiv {
+  display: flex !important;
+}
+
+/* .dashnav1:hover {
+  border-bottom: 2px solid #c1c2c6;
+} */
+
+.mantine-1qj {
+  display: none;
+}
+
+.mantine-kcpopt {
+  width: 212px !important;
+  text-align: center;
+  background-color: #262830;
+}
+
+.btnfilter {
+  border-radius: 8px 0px 0px 8px;
+  background: var(--white, #fff);
+  box-shadow: 0px 0px 0px 1px rgba(70, 79, 96, 0.16),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+}
+
+.divtable .mantine-1lhu8g5[data-striped] > tbody > tr:nth-of-type(odd) {
+  background-color: #f2faf7;
+}
+.logbutt {
+  border: 1px solid #f2a29d;
+}
+
+button:hover,
+input:hover,
+input:focus {
+  opacity: 0.9 !important;
+  transform: scaleX(1);
+}
+
+button,
+input {
+  transition: background-color 0.3s ease !important;
+}
+
+.scroll-bar-hidden::-webkit-scrollbar,
+.form::-webkit-scrollbar,
+.paddytable::-webkit-scrollbar {
+  display: none;
+}
+
+.mantine-InputWrapper-root {
+  display: grid;
+  gap: 8px;
+}
+
+.mantine-Input-wrapper {
+  border: 0.0625rem solid #ced4da !important;
+  border-radius: 6px !important;
+}
+
+.mantine-PasswordInput-input {
+  border: none !important;
+}
+
+.commodity-select .mantine-InputWrapper-root {
+  display: flex !important;
+  white-space: nowrap;
+  align-items: center;
+}
+
+.commodity-select .mantine-InputWrapper-root div {
+  width: 90% !important;
+}
+
+.commodity-select .mantine-1v7s5f8 {
+  width: 90% !important;
+}
+
+.mantine-PasswordInput-innerInput:focus {
+  outline: none !important;
+}
+
+.mantine-Select-dropdown {
+  width: 90% !important;
+}
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -15,13 +363,10 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+.select .mantine-1v7s5f8 {
+  width: 85px !important;
+}
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.commodities-modal::-webkit-scrollbar {
+  display: none !important;
 }
